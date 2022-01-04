@@ -116,7 +116,7 @@ Sub AllStocksAnalysisRefactored()
 
 The advantages of refactoring code are pretty clear. They can help make your code much more efficient and easier to edit if you need to go back in and change anything. The increase in efficiency also allows you to read your code much easier. Most of the time, refactoring code will allow your code to run much faster.
 
-The disadvantage to refactoring your code is it can cause errors. This is the problem I ended up running into and was unfortunately unable to figure this out. Even after visiting office hours and having Joshua Steier assist me with the issues I was having, I wasn't able to trouble shoot the problem. the error that I continued to run into were the following: 
+The disadvantage to refactoring your code is it can cause errors. This is the problem I ended up running into and was unfortunately unable to figure this out. The error that I continued to run into were the following: 
 
 ![VBAErrorOutofRange](https://user-images.githubusercontent.com/95515322/148006952-19ba80f2-c9e2-49aa-b172-40681d7c9cb5.png)]
 
