@@ -118,7 +118,7 @@ The advantages of refactoring code are pretty clear. They can help make your cod
 
 The disadvantage to refactoring your code is it can cause errors. This is the problem I ended up running into and was unfortunately unable to figure this out. Even after visiting office hours and having Joshua Steier assist me with the issues I was having, I wasn't able to trouble shoot the problem. the error that I continued to run into were the following: 
 
-![![VBAErrorOutofRange](https://user-images.githubusercontent.com/95515322/148006952-19ba80f2-c9e2-49aa-b172-40681d7c9cb5.png)]
+![VBAErrorOutofRange](https://user-images.githubusercontent.com/95515322/148006952-19ba80f2-c9e2-49aa-b172-40681d7c9cb5.png)]
 
-![![VBAErrorHighlightedCode](https://user-images.githubusercontent.com/95515322/148007199-612298c6-6eb2-400c-81ab-57ea8ec054d0.png)]
+![VBAErrorHighlightedCode](https://user-images.githubusercontent.com/95515322/148007199-612298c6-6eb2-400c-81ab-57ea8ec054d0.png)]
 
